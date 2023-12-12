@@ -7,4 +7,7 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
+![GitHub Logo](https://github.com/aaadyyy69/responsive-travel-website/blob/main/preview.png)
+
+
 
